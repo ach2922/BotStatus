@@ -4,7 +4,8 @@
   "description": "Discord bot status page",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "vercel": "vercel"
   },
   "dependencies": {
     "express": "^4.17.1",
